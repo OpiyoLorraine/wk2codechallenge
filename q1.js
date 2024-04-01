@@ -13,7 +13,7 @@ function swapCase(str) {
     return swappedStr;
 }
 
-// Test the function
+// Test the function using console.log
 let inputString = 'The Quick Brown Fox';
 let outputString = swapCase(inputString);
 console.log(outputString); // Output: 'tHE qUICK bROWN fOX'
